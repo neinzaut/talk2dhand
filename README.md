@@ -36,6 +36,11 @@ SpeechRecognition==3.10.4
 ```
 pip install -r requirements.txt
 ```
+```
+* Then to run it, run app.py or type this into terminal:
+```
+python app.py
+```
 
 
 ## NLP Concepts
